@@ -1,0 +1,133 @@
+Clown
+itemId: Addon_GasBomb_01, name: Robin Feather
+itemId: Addon_GasBomb_02, name: Party Bottle
+itemId: Addon_GasBomb_03, name: Smelly Inner Soles
+itemId: Addon_GasBomb_04, name: Fingerless Parade Gloves
+itemId: Addon_GasBomb_05, name: Thick Cork Stopper
+itemId: Addon_GasBomb_06, name: Solvent Jug
+itemId: Addon_GasBomb_07, name: Kerosene Can
+itemId: Addon_GasBomb_08, name: Sticky Soda Bottle
+itemId: Addon_GasBomb_09, name: Starling Feather
+itemId: Addon_GasBomb_10, name: VHS Porn
+itemId: Addon_GasBomb_11, name: Spirit of Hartshorn
+itemId: Addon_GasBomb_12, name: Sulfuric Acid Vial
+itemId: Addon_GasBomb_13, name: Flask of Bleach
+itemId: Addon_GasBomb_14, name: Bottle of Chloroform
+itemId: Addon_GasBomb_15, name: Garish Makeup Kit
+itemId: Addon_GasBomb_16, name: Cheap Gin Bottle
+itemId: Addon_GasBomb_17, name: Ether 15 vol%
+itemId: Addon_GasBomb_18, name: Cigar Box
+itemId: Addon_GasBomb_19, name: Tattoo's Middle Finger
+itemId: Addon_GasBomb_20, name: Redhead's Pinky Finger
+
+Twins
+itemId: Addon_K22Power_1, name: Cat Figurine
+itemId: Addon_K22Power_2, name: Tiny Fingernail
+itemId: Addon_K22Power_3, name: Soured Milk
+itemId: Addon_K22Power_4, name: Toy Sword
+itemId: Addon_K22Power_5, name: Cat’s Eye
+itemId: Addon_K22Power_6, name: Madeleine’s Glove
+itemId: Addon_K22Power_7, name: Bloody Black Hood
+itemId: Addon_K22Power_8, name: Ceremonial Candelabrum
+itemId: Addon_K22Power_9, name: Baby Teeth
+itemId: Addon_K22Power_10, name: Rusted Needle
+itemId: Addon_K22Power_11, name: Sewer Sludge
+itemId: Addon_K22Power_12, name: Madeleine’s Scarf
+itemId: Addon_K22Power_13, name: Stale Biscuit
+itemId: Addon_K22Power_14, name: Weighty Rattle
+itemId: Addon_K22Power_15, name: Forest Stew
+itemId: Addon_K22Power_16, name: Spinning Top
+itemId: Addon_K22Power_17, name: Drop of Perfume
+itemId: Addon_K22Power_18, name: Victor’s Soldier
+itemId: Addon_K22Power_19, name: Silencing Cloth
+itemId: Addon_K22Power_20, name: Iridescent Pendant
+
+Trickster
+itemId: Addon_K24Power_1 name: Damaged Syringe
+itemId: Addon_K24Power_2, name: Brian’s Intestine
+itemId: Addon_K24Power_3, name: Visitor Wristband
+itemId: Addon_K24Power_4, name: S.T.A.R.S. Field Combat Manual
+itemId: Addon_K24Power_5, name: Marvin’s Blood
+itemId: Addon_K24Power_6, name: Adrenaline Injector
+itemId: Addon_K24Power_7, name: Mikhail’s Eye
+itemId: Addon_K24Power_8, name: Zombie Heart
+itemId: Addon_K24Power_9, name: Admin Wristband
+itemId: Addon_K24Power_10, name: Tyrant Gore
+itemId: Addon_K24Power_11, name: Serotonin Injector
+itemId: Addon_K24Power_12, name: T-Virus Sample
+itemId: Addon_K24Power_13, name: Plant 43 Vines 
+itemId: Addon_K24Power_14, name: Licker Tongue
+itemId: Addon_K24Power_15, name: NE-α Parasite
+itemId: Addon_K24Power_16, name: Jill’s Sandwich
+itemId: Addon_K24Power_17, name: Broken Recovery Coin
+itemId: Addon_K24Power_18, name: Depleted Ink Ribbon
+itemId: Addon_K24Power_19, name: Shattered S.T.A.R.S. Badge
+itemId: Addon_K24Power_20, name: Iridescent Umbrella Badge
+
+Nemesis
+itemId: Addon_K25Power_01, name: Bent Nail
+itemId: Addon_K25Power_02, name: Lively Crickets
+itemId: Addon_K25Power_03, name: Burning Candle
+itemId: Addon_K25Power_04, name: Leather Strip
+itemId: Addon_K25Power_05, name: Wriggling Maggots
+itemId: Addon_K25Power_06, name: Spoiled Meal
+itemId: Addon_K25Power_07, name: Skewered Rat
+itemId: Addon_K25Power_08, name: Flickering Television
+itemId: Addon_K25Power_09, name: Liquified Gore
+itemId: Addon_K25Power_10, name: Larry’s Blood
+itemId: Addon_K25Power_11, name: Torture Pillar
+itemId: Addon_K25Power_12, name: Frank’s Heart
+itemId: Addon_K25Power_13, name: Larry’s Remains
+itemId: Addon_K25Power_14, name: Slice of Frank
+itemId: Addon_K25Power_15, name: Greasy Black Lens
+itemId: Addon_K25Power_16, name: Original Pain
+itemId: Addon_K25Power_17, name: Impaling Wire
+itemId: Addon_K25Power_18, name: Chatterer’s Tooth
+itemId: Addon_K25Power_19, name: Engineer’s Fang
+itemId: Addon_K25Power_20, name: Iridescent Lament Configuration
+
+
+
+xenomorph
+itemId: Addon_K33_01, name: Lambert’s Star Map
+itemId: Addon_K33_02, name: Cereal Rations
+itemId: Addon_K33_03, name: Ripley's Watch
+itemId: Addon_K33_04, name: Ovomorph
+itemId: Addon_K33_05, name: Drinking Bird
+itemId: Addon_K33_06, name: Crew Headset
+itemId: Addon_K33_07, name: Emergency Helmet
+itemId: Addon_K33_08, name: Ash’s Innards
+itemId: Addon_K33_09, name: Light Wand
+itemId: Addon_K33_10, name: Kane’s Helmet
+itemId: Addon_K33_11, name: Multipurpose Hatchet
+itemId: Addon_K33_12, name: Parker’s Headband
+itemId: Addon_K33_13, name: Molted Skin
+itemId: Addon_K33_14, name: Brett’s Cap
+itemId: Addon_K33_15, name: Semiotic Keyboard
+itemId: Addon_K33_16, name: Harpoon Gun
+itemId: Addon_K33_17, name: Cat Carrier
+itemId: Addon_K33_18, name: Self-Destruct Bolt
+itemId: Addon_K33_19, name: Improvised Cattle Prod
+itemId: Addon_K33_20, name: Acidic Blood
+
+Chucky
+itemId: Addon_K34_01 name: Strobing Light
+itemId: Addon_K34_02 name: Doll Eyes
+itemId: Addon_K34_03 name: Tiny Scalpel 
+itemId: Addon_K34_04 name: Good Guy Box
+itemId: Addon_K34_05 name: Power Drill 
+itemId: Addon_K34_06 name: Electric Carving Knife 
+itemId: Addon_K34_07 name: Jump Rope 
+itemId: Addon_K34_08 name: Hair Spray & Candle 
+itemId: Addon_K34_09 name: Automatic Screwdriver 
+itemId: Addon_K34_10 name: Portable TV 
+itemId: Addon_K34_11 name: Silk Pillow
+itemId: Addon_K34_12 name: Iridescent Amulet
+itemId: Addon_K34_13 name: Plastic Bag
+itemId: Addon_K34_14 name: Pile of Nails 
+itemId: Addon_K34_15 name: Yardstick 
+itemId: Addon_K34_16 name: Running Shoes
+itemId: Addon_K34_17 name: Rat Poison 
+itemId: Addon_K34_18 name: Straight Razor 
+itemId: Addon_K34_19 name: Hard Hat
+itemId: Addon_K34_20 name: Mirror Shards
