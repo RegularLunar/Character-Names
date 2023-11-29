@@ -86,7 +86,27 @@ itemId: Addon_K25Power_18, name: Chatterer’s Tooth
 itemId: Addon_K25Power_19, name: Engineer’s Fang
 itemId: Addon_K25Power_20, name: Iridescent Lament Configuration
 
-
+Pinhead
+itemId: Addon_K26Power_01, name: Oil Paints
+itemId: Addon_K26Power_02, name: Vibrant Obituary
+itemId: Addon_K26Power_03, name: Thick Tar
+itemId: Addon_K26Power_04, name: Choclo Corn
+itemId: Addon_K26Power_05, name: Automatic Drawing
+itemId: Addon_K26Power_06, name: Festering Carrion
+itemId: Addon_K26Power_07, name: Velvet Fabric
+itemId: Addon_K26Power_08, name: Still Life Crow
+itemId: Addon_K26Power_09, name: Untitled Agony
+itemId: Addon_K26Power_10, name: Charcoal Stick
+itemId: Addon_K26Power_11, name: Darkest Ink
+itemId: Addon_K26Power_12, name: O Grief, O Lover
+itemId: Addon_K26Power_13, name: Thorny Nest
+itemId: Addon_K26Power_14, name: Silver Bell
+itemId: Addon_K26Power_15, name: Matias' Baby Shoes
+itemId: Addon_K26Power_16, name: Severed Tongue
+itemId: Addon_K26Power_17, name: Garden of Rot
+itemId: Addon_K26Power_18, name: Ink Egg
+itemId: Addon_K26Power_19, name: Severed Hands
+itemId: Addon_K26Power_20, name: Iridescent Feather
 
 xenomorph
 itemId: Addon_K33_01, name: Lambert’s Star Map
