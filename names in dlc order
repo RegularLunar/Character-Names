@@ -43,6 +43,28 @@ itemId: Addon_K22Power_19, name: Silencing Cloth
 itemId: Addon_K22Power_20, name: Iridescent Pendant
 
 Trickster
+itemId: Addon_Trickster_01, name: Memento Blades
+itemId: Addon_Trickster_02, name: Trick Pouch
+itemId: Addon_Trickster_03, name: Killing Part Chords
+itemId: Addon_Trickster_04, name: Inferno Wires
+itemId: Addon_Trickster_05, name: Ji-Woon's Autograph
+itemId: Addon_Trickster_06, name: On Target Single
+itemId: Addon_Trickster_07, name: Lucky Blade
+itemId: Addon_Trickster_08, name: Caged Heart Shoes
+itemId: Addon_Trickster_09, name: Tequila Moonrock
+itemId: Addon_Trickster_10, name: Bloody Boa
+itemId: Addon_Trickster_11, name: Fizz-Spin Soda
+itemId: Addon_Trickster_12, name: Waiting for You Watch
+itemId: Addon_Trickster_13, name: Ripper Brace
+itemId: Addon_Trickster_14, name: Melodious Murder
+itemId: Addon_Trickster_15, name: Diamond Cufflinks
+itemId: Addon_Trickster_16, name: Edge of Revival Album
+itemId: Addon_Trickster_17, name: Trick Blades
+itemId: Addon_Trickster_18, name: Cut Thru U Single
+itemId: Addon_Trickster_19, name: Death Throes Compilation
+itemId: Addon_Trickster_20, name: Iridescent Photocard
+
+Nemesis
 itemId: Addon_K24Power_1 name: Damaged Syringe
 itemId: Addon_K24Power_2, name: Brian’s Intestine
 itemId: Addon_K24Power_3, name: Visitor Wristband
@@ -64,7 +86,7 @@ itemId: Addon_K24Power_18, name: Depleted Ink Ribbon
 itemId: Addon_K24Power_19, name: Shattered S.T.A.R.S. Badge
 itemId: Addon_K24Power_20, name: Iridescent Umbrella Badge
 
-Nemesis
+Cenobite
 itemId: Addon_K25Power_01, name: Bent Nail
 itemId: Addon_K25Power_02, name: Lively Crickets
 itemId: Addon_K25Power_03, name: Burning Candle
@@ -86,7 +108,7 @@ itemId: Addon_K25Power_18, name: Chatterer’s Tooth
 itemId: Addon_K25Power_19, name: Engineer’s Fang
 itemId: Addon_K25Power_20, name: Iridescent Lament Configuration
 
-Pinhead
+Artist
 itemId: Addon_K26Power_01, name: Oil Paints
 itemId: Addon_K26Power_02, name: Vibrant Obituary
 itemId: Addon_K26Power_03, name: Thick Tar
@@ -107,6 +129,116 @@ itemId: Addon_K26Power_17, name: Garden of Rot
 itemId: Addon_K26Power_18, name: Ink Egg
 itemId: Addon_K26Power_19, name: Severed Hands
 itemId: Addon_K26Power_20, name: Iridescent Feather
+
+Onryo
+itemId: Addon_TheOnryo_01, name: Videotape Copy
+itemId: Addon_TheOnryo_02, name: Old Newspaper
+itemId: Addon_TheOnryo_03, name: Cabin Sign
+itemId: Addon_TheOnryo_04, name: Mother's Mirror
+itemId: Addon_TheOnryo_05, name: Reiko's Watch
+itemId: Addon_TheOnryo_06, name: Sea-Soaked Cloth
+itemId: Addon_TheOnryo_07, name: Clump of Hair
+itemId: Addon_TheOnryo_08, name: Well Stone
+itemId: Addon_TheOnryo_09, name: Yoichi's Fishing Net
+itemId: Addon_TheOnryo_10, name: Rickety Pinwheel
+itemId: Addon_TheOnryo_11, name: Well Water
+itemId: Addon_TheOnryo_12, name: Ring Drawing
+itemId: Addon_TheOnryo_13, name: Bloody Fingernails
+itemId: Addon_TheOnryo_14, name: Mother's Comb
+itemId: Addon_TheOnryo_15, name: VCR
+itemId: Addon_TheOnryo_16, name: Distorted Photo
+itemId: Addon_TheOnryo_17, name: Telephone
+itemId: Addon_TheOnryo_18, name: Tape Editing Deck
+itemId: Addon_TheOnryo_19, name: Remote Control
+itemId: Addon_TheOnryo_20, name: Iridescent Videotape
+
+Dredge
+itemId: Addon_K28_01, name: Wooden Plank
+itemId: Addon_K28_02, name: Caffeine Tablets
+itemId: Addon_K28_03, name: Mortar and Pestle
+itemId: Addon_K28_04, name: Follower’s Cowl
+itemId: Addon_K28_05, name: Burnt Letters
+itemId: Addon_K28_06, name: Air Freshener
+itemId: Addon_K28_07, name: Haddie’s Calendar
+itemId: Addon_K28_08, name: Fallen Shingle
+itemId: Addon_K28_09, name: Malthinker’s Skull
+itemId: Addon_K28_10, name: Worry Stone
+itemId: Addon_K28_11, name: Ottomarian Writing
+itemId: Addon_K28_12, name: Broken Doll
+itemId: Addon_K28_13, name: War Helmet
+itemId: Addon_K28_14, name: Destroyed Pillow
+itemId: Addon_K28_15, name: Tilling Blade
+itemId: Addon_K28_16, name: Boat Key
+itemId: Addon_K28_17, name: Field Recorder
+itemId: Addon_K28_18, name: Lavalier Microphone
+itemId: Addon_K28_19, name: Sacrificial Knife
+itemId: Addon_K28_20, name: Iridescent Wooden Plank
+
+Wesker
+itemId: Addon_K29_01, name: Jewel Beetle
+itemId: Addon_K29_02, name: Green Herb
+itemId: Addon_K29_03, name: Unicorn Medallion
+itemId: Addon_K29_04, name: R.P.D. Shoulder Walkie
+itemId: Addon_K29_05, name: Loose Crank
+itemId: Addon_K29_06, name: Leather Gloves
+itemId: Addon_K29_07, name: Lion Medallion
+itemId: Addon_K29_08, name: Chalice (Gold)
+itemId: Addon_K29_09, name: Bullhorn
+itemId: Addon_K29_10, name: Portable Safe
+itemId: Addon_K29_11, name: Red Herb
+itemId: Addon_K29_12, name: Maiden Medallion
+itemId: Addon_K29_13, name: Video Conference Device
+itemId: Addon_K29_14, name: Egg (Gold)
+itemId: Addon_K29_15, name: Dark Sunglasses
+itemId: Addon_K29_16, name: Helicopter Stick
+itemId: Addon_K29_17, name: Uroboros Tendril
+itemId: Addon_K29_18, name: Uroboros Virus
+itemId: Addon_K29_19, name: Lab Photo
+itemId: Addon_K29_20, name: Iridescent Uroboros Vial
+
+Knight
+itemId: Addon_K30_01, name: Gritty Lump
+itemId: Addon_K30_02, name: Map of the Realm
+itemId: Addon_K30_03, name: Tattered Tabard
+itemId: Addon_K30_04, name: Pillaged Mead
+itemId: Addon_K30_05, name: Dried Horsemeat
+itemId: Addon_K30_06, name: Battleaxe Head
+itemId: Addon_K30_07, name: Treated Blade
+itemId: Addon_K30_08, name: Cold Steel Manacles
+itemId: Addon_K30_09, name: Call To Arms
+itemId: Addon_K30_10, name: Chain Mail Fragment
+itemId: Addon_K30_11, name: Grim Iron Mask
+itemId: Addon_K30_12, name: Broken Hilt
+itemId: Addon_K30_13, name: Ironworker’s Tongs
+itemId: Addon_K30_14, name: Town Watch’s Torch
+itemId: Addon_K30_15, name: Blacksmith’s Hammer
+itemId: Addon_K30_16, name: Flint and Steel
+itemId: Addon_K30_17, name: Healing Poultice
+itemId: Addon_K30_18, name: Lightweight Greaves
+itemId: Addon_K30_19, name: Knight’s Contract
+itemId: Addon_K30_20, name: Iridescent Company Banner
+
+Skull Merchant
+itemId: Addon_K31_01, name: Adi Valente #1
+itemId: Addon_K31_02, name: High-Power Floodlight
+itemId: Addon_K31_03, name: Geographical Readout
+itemId: Addon_K31_04, name: High Current Upgrade
+itemId: Addon_K31_05, name: Adaptive Lighting
+itemId: Addon_K31_06, name: Stereo Remote Mic
+itemId: Addon_K31_07, name: Supercharge
+itemId: Addon_K31_08, name: Shotgun Speakers
+itemId: Addon_K31_09, name: Low-Power Mode
+itemId: Addon_K31_10, name: Powdered Glass
+itemId: Addon_K31_11, name: Vital Targeting Processor
+itemId: Addon_K31_12, name: Brown Noise Generator
+itemId: Addon_K31_13, name: Loose Screw
+itemId: Addon_K31_14, name: Infrared Upgrade
+itemId: Addon_K31_15, name: Randomized Strobes
+itemId: Addon_K31_16, name: Advanced Movement Prediction
+itemId: Addon_K31_17, name: Ultrasonic Speaker
+itemId: Addon_K31_18, name: Expired Batteries
+itemId: Addon_K31_19, name: Prototype Rotor
+itemId: Addon_K31_20, name: Iridescent Unpublished Manuscript
 
 xenomorph
 itemId: Addon_K33_01, name: Lambert’s Star Map
