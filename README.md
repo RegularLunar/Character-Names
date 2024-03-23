@@ -1,6 +1,6 @@
 # Survivors
 
-| Character                | Codename     | DLC Name ID | Codename ID |
+| Character                | Codename     | DLC Name ID |     ID      |
 |--------------------------|--------------|-------------|-------------|
 | Dwight Fairfield         | Dwight       |             | 0           |
 | Meg Thomas               | Meg          |             | 1           |
@@ -45,9 +45,9 @@
 | Sable Ward               | S41          | ApplePie    | 40          |
   
 # Killers
-## if it is blank it is a duplicate  
+## if DLC Name ID is blank, it has the same name as Codename.
   
-| Character                | Codename     | DLC Name ID | Codename ID |
+| Character                | Codename     | DLC Name ID |     ID      |
 |--------------------------|--------------|-------------|-------------|
 | The Trapper              | Trapper      |             | 268435456   |
 | The Wraith               | Wraith       |             | 268435457   |
