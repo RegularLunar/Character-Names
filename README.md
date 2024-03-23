@@ -1,4 +1,4 @@
-### Survivors
+# Survivors
 
 | Character                | Codename     | DLC Name ID | Codename ID |
 |--------------------------|--------------|-------------|-------------|
@@ -44,7 +44,7 @@
 | Alan Wake                | S40          | Zodiac      | 39          |
 | Sable Ward               | S41          | ApplePie    | 40          |
   
-### Killers
+# Killers
 ## if it is blank it is a duplicate  
   
 | Character                | Codename     | DLC Name ID | Codename ID |
