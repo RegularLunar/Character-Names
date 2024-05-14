@@ -1,5 +1,7 @@
 # Survivors
 
+Cant find what your looking for? Check `Plugins -> Runtime -> Bhvr`
+
 | Character                | Codename     | DLC Name ID |     ID      | Original Character |
 |--------------------------|--------------|-------------|-------------|--------------------|
 | Dwight Fairfield         | Dwight       |             | 0           |Yes                 |
