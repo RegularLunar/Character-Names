@@ -43,7 +43,7 @@
 | Ellen Ripley             | S39          |             | 38          |No                  |
 | Alan Wake                | S40          | Zodiac      | 39          |No                  |
 | Sable Ward               | S41          | ApplePie    | 40          |Yes                 |
-| Aestri Yazar             | WIP          | WIP         | 41          |WIP                 |
+| Aestri Yazar             | S42          |             | 41          |Unsure              |
 
 # Killers
 ## if DLC Name ID is blank, it has the same name as Codename.
@@ -85,4 +85,4 @@
 | The Xenomorph            | K33          | Wormhole    | 268435488   |No                  |
 | The Good Guy             | K34          | Yerkes      | 268435489   |No                  |
 | The Unknown              | K35          | ApplePie    | 268435490   |Yes                 |
-| The Lich                 | WIP          | WIP         | 268435491   |WIP                 |
+| The Lich                 | K36          | TheK36      | 268435491   |Unsure              |
