@@ -2,7 +2,7 @@
 
 Cant find what your looking for? Check `Plugins -> Runtime -> Bhvr`
 
-if DLC Name ID is blank, it has the same name as Codename or not found.
+if DLC Name ID is blank, it has the same name as Codename.
 
 | Character                | Codename     | DLC Name ID |     ID      | Original Character |
 |--------------------------|--------------|-------------|-------------|--------------------|
