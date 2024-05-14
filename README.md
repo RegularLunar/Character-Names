@@ -2,6 +2,8 @@
 
 Cant find what your looking for? Check `Plugins -> Runtime -> Bhvr`
 
+if DLC Name ID is blank, it has the same name as Codename or not found.
+
 | Character                | Codename     | DLC Name ID |     ID      | Original Character |
 |--------------------------|--------------|-------------|-------------|--------------------|
 | Dwight Fairfield         | Dwight       |             | 0           |Yes                 |
@@ -48,7 +50,6 @@ Cant find what your looking for? Check `Plugins -> Runtime -> Bhvr`
 | Aestri Yazar             | S42          |             | 41          |Unsure              |
 
 # Killers
-## if DLC Name ID is blank, it has the same name as Codename.
   
 | Character                | Codename     | DLC Name ID |     ID      | Original Character |
 |--------------------------|--------------|-------------|-------------|--------------------|
