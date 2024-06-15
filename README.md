@@ -86,4 +86,4 @@ If `DLC File ID` is blank then it's either stored in `Content -> Data -> Charact
 | The Xenomorph      | K33        | Wormhole      | 268435488 |
 | The Good Guy       | K34        | Yerkes        | 268435489 |
 | The Unknown        | K35        | Applepie      | 268435490 |
-| The Lich           | K36        | TheK36              | 268435491 |
+| The Lich           | K36        | TheK36        | 268435491 |
