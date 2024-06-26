@@ -46,6 +46,7 @@ If `DLC File ID` is blank then it's either stored in `Content -> Data -> Charact
 | Alan Wake               | S40        | Zodiac        |   39 |
 | Sable Ward              | S41        | Applepie      |   40 |
 | Aestri Yazar            | S42        |               |   41 |
+| Lara Croft              | S43        | unknown for now.               |   42 |
 
 ## Killers
 
