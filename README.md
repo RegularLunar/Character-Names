@@ -21,8 +21,8 @@ If `DLC File ID` is blank then it's either stored in `Content -> Data -> Charact
 | Jeff Johansen           | Jeff       | Kenya         |   14 |
 | Jane Romero             | Jane       | Mali          |   15 |
 | Ashley J. Williams      | Ash        | Ash           |   16 |
-| Nancy Wheeler           | Nancy      | Qatar         |   17 |
-| Steve Harrington        | Steve      | Qatar         |   18 |
+| Nancy Wheeler           | Nancy      | Qatar_F         |   17 |
+| Steve Harrington        | Steve      | Qatar_M         |   18 |
 | Yui Kimura              | Yui        | Sweden        |   19 |
 | Zarina Kassir           | Zarina     | Ukraine       |   20 |
 | Cheryl Mason            | S22        | Wales         |   21 |
