@@ -1,5 +1,5 @@
 # I no longer play DBD. Please create pull requests for updates.
-If `DLC File ID` is blank then it's either stored in `Content -> Data -> CharacterDescriptionDB.uasset` or it's in `Plugins -> Runtime -> Bhvr -> DBDCharacters`
+If `DLC File ID` is blank then it's either stored in `Content -> Data -> Dlc -> CharacterDescriptionDB.uasset` or it's in `Plugins -> Runtime -> Bhvr -> DBDCharacters`
 
 ## Survivors
 
